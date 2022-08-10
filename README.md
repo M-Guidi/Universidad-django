@@ -2,7 +2,7 @@
 
 Universidad-django Coderhouse
 
-PASO 1: Instala Django desde Pip Pip es un sistema de gestión de paquetes utilizado para instalar y administrar paquetes de software en Python. La instalación de Django es directa, simplemente escribe lo siguiente:
+PASO 1: Instala Django desde la cmd, Pip es un sistema de gestión de paquetes utilizado para instalar y administrar paquetes de software en Python. La instalación de Django es directa, simplemente escribe lo siguiente:
 
 pip install django
 
